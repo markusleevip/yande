@@ -5,6 +5,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>registry</module>
+		<module>userface</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
